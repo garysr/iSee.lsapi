@@ -1,0 +1,12 @@
+{
+  "comment": "开发环境的DB配置",
+  "mongo": {
+    "adapter":  "mongo",
+    "url":      "mongodb://localhost:27017/lawsondb"
+  },
+  "mysql": {
+    "adapter":  "mysql",
+    "url":      "mysql://localhost:3306/lawsondb"
+  }
+
+}
